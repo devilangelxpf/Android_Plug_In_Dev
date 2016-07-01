@@ -1,0 +1,1 @@
+include ':app', ':plug_in_developer', ':pluginapp', ':pluginaidl'
